@@ -1,0 +1,6 @@
+​p=int(input()) 
+ ​s=int(input()) 
+ ​print(p&s) 
+ ​print(p|s) 
+ ​print(p^s) 
+ ​print(p~s)
